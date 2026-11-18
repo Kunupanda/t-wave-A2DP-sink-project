@@ -1,0 +1,6 @@
+{
+  "name": "t_wave",
+  "description": "Wireless Bluetooth RFCOMM SPP speaker receiver with low-latency mode, high-res PCM playback, and live audio buffer telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
